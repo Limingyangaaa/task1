@@ -2,7 +2,12 @@
   height:  500px;
 }
 
-.task2{}
+.task2{
+  margin-left: 600px;
+}
 .task2_1{
   margin: 200px;
+}
+.task2_2 {
+  height: 20px;
 }
